@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "4onyOKQlLFLRS7LOndiTN07dU+rwMhorcYDFmRzR2LY=",
+  "Source": "Lab91",
+  "BasePath": "_content/Lab91",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lab91\\wwwroot",
+      "Source": "Lab91",
+      "ContentRoot": "C:\\Users\\sexyg\\source\\repos\\Lab91\\Lab91\\wwwroot\\",
+      "BasePath": "_content/Lab91",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

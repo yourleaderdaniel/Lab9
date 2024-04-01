@@ -1,0 +1,6 @@
+﻿@model IEnumerable<Lab91.Models.Product>
+
+<h2>Product List</h2>
+
+@await Component.InvokeAsync("Products", new { products = Model })
+
